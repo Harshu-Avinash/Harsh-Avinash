@@ -2,10 +2,6 @@
 # Welcome <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT, Vellore. A passionate learner, ML developer and actively looking for internship opportunity and collaborations with Tech Societies. Skilled in Python (Programming Language), C++, C, Data Structures, Data Science, and Machine Learning.
 
-### Dumb stuff excite me ;)
-
-<img src="https://miro.medium.com/max/3034/1*WI43epHjl6I6FzBVPzvXAQ.gif" alt="AI GIF"  height="400">
-
 ## [My Resume](https://drive.google.com/file/d/1jA-3WVui3XhM_mObJRV9R0YwK4OeQbur/view?usp=sharing)
 
 <p align = "center">
