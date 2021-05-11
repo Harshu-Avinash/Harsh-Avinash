@@ -1,29 +1,18 @@
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harsh-Avinash&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Harsh Avinash" /></a></p>
 
 # Welcome <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT, Vellore. A passionate learner, ML developer and actively looking for internship opportunity and collaborations with Tech Societies. Skilled in Python (Programming Language), C++, C, Data Structures, Data Science, and Machine Learning.
 
-### Layers excite me ;)
+### Dumb stuff excite me ;)
 
 <img src="https://miro.medium.com/max/3034/1*WI43epHjl6I6FzBVPzvXAQ.gif" alt="AI GIF"  height="400">
 
-## [My Resume](https://drive.google.com/file/d/1_seQOHTirAORBljBFnmpb33opY-YM_qS/view?usp=sharing)
-
-### Some more about me
-- 🔭 I’m currently working on Image Processing and Computer Vision, Cloud APIs
-- 🌱 I’m currently learning Competitive Coding, DSA, and Backend
-- 👯 I’m looking to collaborate on exciting Projects and Hackathons
-- 🤔 I’m looking for help with Deployment of ML projects
-- 💬 Ask me about Data Science and Machine learning
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/apurva866)
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am surprisingly honest :p
+## [My Resume](https://drive.google.com/file/d/1jA-3WVui3XhM_mObJRV9R0YwK4OeQbur/view?usp=sharing)
 
 <p align = "center">
 <a href =https://github.com/Harsh-Avinash target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
-<a href = https://www.linkedin.com/in/apurva866/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
-<a href = https://twitter.com/mindwrapper target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/>
-<a href = https://www.instagram.com/mind.wrapper/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
+<a href = https://www.linkedin.com/in/harsh-avinash-b129141a8 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
+<a href = https://twitter.com/HarshAvinash4 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/>
+<a href = https://www.instagram.com/_harsh_avinash_/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
 <p align = "center" > Number of visits <br> 
   
   ![VisitorCount](https://profile-counter.glitch.me/{Harsh-Avinash}/count.svg) 
