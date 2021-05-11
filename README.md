@@ -4,15 +4,17 @@ I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
 
 ## [My Resume](https://drive.google.com/file/d/1jA-3WVui3XhM_mObJRV9R0YwK4OeQbur/view?usp=sharing)
 
+### Clubs And Chapters I am in
+- [Association for Computing Machinery - Chapter VIT Vellore](https://acmvit.in/)
+- [Technology and Gaming - Club VIT Vellore](http://www.tagclub.in/)
+- [Linix Users Group - Club VIT Vellore](https://vitlug-website.herokuapp.com/index.html)
+
 <p align = "center">
 <a href =https://github.com/Harsh-Avinash target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/harsh-avinash-b129141a8 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href = https://twitter.com/HarshAvinash4 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/>
 <a href = https://www.instagram.com/_harsh_avinash_/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
-<p align = "center" > Number of visits <br> 
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{Harsh-Avinash}/count.svg) 
-</p>
+
 
 # Github Activity📊:
 
@@ -25,9 +27,17 @@ I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Avinash&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
      <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
-  <tr><td><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harsh-Avinash&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Harsh Avinash" /></a></p>
-</td></tr>
   </tr>
+  <tr>
+    <td><p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Harsh-Avinash&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Harsh Avinash" />
+      </a></p></td><td>
+  <p align = "left" > Number of visits <br> 
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{Harsh-Avinash}/count.svg) 
+</p>
+</td></tr>
+
 </table>
 
 # Productivity Stats📈:
@@ -45,6 +55,6 @@ I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
 # Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/CrewMates-Open-Source/EduHelp/pull/51) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
-2. 🎉 Merged PR [#48](https://github.com/CrewMates-Open-Source/EduHelp/pull/48) in [CrewMates-Open-Source/EduHelp](https://github.com/CrewMates-Open-Source/EduHelp)
+1. 
+2. 
 <!--END_SECTION:activity-->
