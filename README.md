@@ -14,6 +14,13 @@ I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
 <a href = https://www.linkedin.com/in/harsh-avinash-b129141a8 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href = https://twitter.com/HarshAvinash4 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/>
 <a href = https://www.instagram.com/_harsh_avinash_/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
+<a href = https://wa.me/message/T3MI65NHOAZYF1_/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/whatsapp.svg height='30' weight='30'/></a>
+<a href = https://discord.gg/aDAvd9BfCh target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg height='30' weight='30'/></a>
+<a href = https://harshu-avinash.medium.com/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a>
+<a href = https://steamcommunity.com/id/Harsh-Avinash target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/steam.svg height='30' weight='30'/></a>
+<a href = https://www.reddit.com/user/-Max_Q-/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg height='30' weight='30'/></a>
+<a href = https://open.spotify.com/user/3yr4r4n3a0efbu6bimv8w95uo target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/spotify.svg height='30' weight='30'/></a>
+<a href = https://www.twitch.tv/the_max_q target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitch.svg height='30' weight='30'/></a>
 
 
 # Github Activity <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50">
@@ -21,10 +28,11 @@ I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Harsh-Avinash&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Avinash&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Avinash&theme=tokyonight"  display=block width=100% height=auto alt="3" align="right"></td>
+    
    </tr> 
    <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Avinash&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Avinash&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
      <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
