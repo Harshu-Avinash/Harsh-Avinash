@@ -16,7 +16,7 @@ I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
 <a href = https://www.instagram.com/_harsh_avinash_/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
 
 
-# Github Activity📊:
+# Github Activity <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50">
 
 <table>
   <tr>
@@ -40,7 +40,7 @@ I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
 
 </table>
 
-# Productivity Stats📈:
+# Productivity Stats <img src="https://i.kym-cdn.com/photos/images/original/002/047/381/117.gif" width="50">:
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harsh-Avinash&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
