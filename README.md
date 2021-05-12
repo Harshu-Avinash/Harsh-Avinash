@@ -1,26 +1,30 @@
 
 # Welcome <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT, Vellore. A passionate learner, ML developer and actively looking for internship opportunity and collaborations with Tech Societies. Skilled in Python (Programming Language), C++, C, Data Structures, Data Science, and Machine Learning.
+<br><br>
+<img src="https://media1.tenor.com/images/26682fc6f51137e4aa6a9920e5e4601a/tenor.gif?itemid=21537405" width = "1200" align = "center">
 
-## [My Resume](https://drive.google.com/file/d/1jA-3WVui3XhM_mObJRV9R0YwK4OeQbur/view?usp=sharing)
 
-### Clubs And Chapters I am in
-- [Association for Computing Machinery - Chapter VIT Vellore](https://acmvit.in/)
-- [Technology and Gaming - Club VIT Vellore](http://www.tagclub.in/)
-- [Linix Users Group - Club VIT Vellore](https://vitlug-website.herokuapp.com/index.html)
-
+### [My Resume](https://drive.google.com/file/d/1jA-3WVui3XhM_mObJRV9R0YwK4OeQbur/view?usp=sharing) and my social contacts
+<br><br>
 <p align = "center">
 <a href =https://github.com/Harsh-Avinash target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/harsh-avinash-b129141a8 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href = https://twitter.com/HarshAvinash4 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg height='30' weight='30'/>
 <a href = https://www.instagram.com/_harsh_avinash_/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
-<a href = https://wa.me/message/T3MI65NHOAZYF1_/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/whatsapp.svg height='30' weight='30'/></a>
+<a href = https://wa.me/message/T3MI65NHOAZYF1_/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/whatsapp.svg height='30' weight='30'/></a><br>
 <a href = https://discord.gg/aDAvd9BfCh target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg height='30' weight='30'/></a>
 <a href = https://harshu-avinash.medium.com/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/medium.svg height='30' weight='30'/></a>
 <a href = https://steamcommunity.com/id/Harsh-Avinash target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/steam.svg height='30' weight='30'/></a>
 <a href = https://www.reddit.com/user/-Max_Q-/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/reddit.svg height='30' weight='30'/></a>
 <a href = https://open.spotify.com/user/3yr4r4n3a0efbu6bimv8w95uo target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/spotify.svg height='30' weight='30'/></a>
 <a href = https://www.twitch.tv/the_max_q target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitch.svg height='30' weight='30'/></a>
+<br><br>
+  
+### Clubs And Chapters I am in
+- [Association for Computing Machinery - Chapter VIT Vellore](https://acmvit.in/)
+- [Technology and Gaming - Club VIT Vellore](http://www.tagclub.in/)
+- [Linix Users Group - Club VIT Vellore](https://vitlug-website.herokuapp.com/index.html)
 
 
 # Github Activity <img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width="50">
