@@ -5,8 +5,8 @@ I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
 <img src="https://media1.tenor.com/images/26682fc6f51137e4aa6a9920e5e4601a/tenor.gif?itemid=21537405" width = "1200" align = "center">
 
 
-### [My Resume](https://drive.google.com/file/d/1jA-3WVui3XhM_mObJRV9R0YwK4OeQbur/view?usp=sharing) and my social contacts
-<br><br>
+### [My Resume](https://drive.google.com/file/d/1jA-3WVui3XhM_mObJRV9R0YwK4OeQbur/view?usp=sharing) and my socials
+<br>
 <p align = "center">
 <a href =https://github.com/Harsh-Avinash target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='30' weight='30'/></a>
 <a href = https://www.linkedin.com/in/harsh-avinash-b129141a8 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
