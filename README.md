@@ -27,12 +27,12 @@ I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Harsh-Avinash&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Harsh-Avinash&theme=tokyonight&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Avinash&theme=tokyonight"  display=block width=100% height=auto alt="3" align="right"></td>
     
    </tr> 
    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Avinash&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Avinash&theme=tokyonight&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
      <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
@@ -63,6 +63,7 @@ I'm Harsh Avinash. I'm currently a sophomore pursuing my B.Tech Degree from VIT,
 # Recent Activity⚡
 
 <!--START_SECTION:activity-->
-1. 
-2. 
+1. [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://github.com/users/Harsh-Avinash/projects/2)
+2. [Python and Django Full Stack Web Developer Bootcamp](https://github.com/users/Harsh-Avinash/projects/3)
+3. [Custom Server Setup](https://github.com/users/Harsh-Avinash/projects/1)
 <!--END_SECTION:activity-->
